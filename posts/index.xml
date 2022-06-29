@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Abdullah Owolabi | Blog</title>
+    <link>https://ibnmaruf.github.io/posts/</link>
+    <description>Recent content in Posts on Abdullah Owolabi | Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Jun 2022 23:28:36 -0700</lastBuildDate><atom:link href="https://ibnmaruf.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>https://ibnmaruf.github.io/posts/firstpost/</link>
+      <pubDate>Tue, 28 Jun 2022 23:28:36 -0700</pubDate>
+      
+      <guid>https://ibnmaruf.github.io/posts/firstpost/</guid>
+      <description>console.log(&amp;#34;Hello World, I am Abdullah&amp;#34;) </description>
+    </item>
+    
+  </channel>
+</rss>
